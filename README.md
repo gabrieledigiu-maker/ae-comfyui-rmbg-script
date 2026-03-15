@@ -1,6 +1,7 @@
 # RMBG for After Effects
 
 **Run AI background removal directly inside After Effects — no switching apps, no manual exporting.**
+Built for personal workflow experiments.
 
 This script connects After Effects to the AI models you already have installed via [ComfyUI-RMBG](https://github.com/1038lab/ComfyUI-RMBG). Select a layer, click a button, get a clean RGBA result back in your timeline — GPU accelerated.
 
